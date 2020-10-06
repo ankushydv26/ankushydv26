@@ -7,14 +7,15 @@
 
 ✍️   Pursuing Web Development as hobbies/side hustles.
 
-🛠 Tech Stack
+<h2>🛠 Tech Stack </h3>
 💻   Python  | C++ | C | MySQL | MonogoDb |
 
 🌐   HTML | CSS | JavaScript | Bootstrap | ReactJS
 
 
-<h3> Connect with me </h3>
+<h3> 🤝🏻 Connect with me </h3>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/ankush-kumar-0m/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ankush%20Kumar-blue?style=flat-square&logo=linkedin">
+    <a href="https://www.instagram.com/ankush_ydv/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ankushydv-blue?style=flat-square&logo=instagram"></a>
   </p>
