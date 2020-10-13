@@ -5,10 +5,10 @@
 
 🌱   Learning about Python, Systems Design and Linux.
 
-✍️   Pursuing Web Development as hobbies/side hustles.
+✍️   Pursuing Web Development as hobbies & side hustles.
 
 <h2>🛠 Tech Stack </h3>
-💻   Python  | C++ | C | MySQL | MonogoDb |
+💻   Python  | C++ |  MySQL | MonogoDb |
 
 🌐   HTML | CSS | JavaScript | Bootstrap | ReactJS
 
