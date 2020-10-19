@@ -8,7 +8,7 @@
 ✍️   Pursuing Web Development as hobbies & side hustles.
 
 <h2>🛠 Tech Stack </h3>
-💻   Python  | C++ |  MySQL | MonogoDb |
+💻      C++ |  MySQL | MonogoDb |
 
 🌐   HTML | CSS | JavaScript | Bootstrap | ReactJS
 
