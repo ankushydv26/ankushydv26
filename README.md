@@ -1,5 +1,5 @@
-### Hi there 👋 <img src="https://media1.tenor.com/images/505ddb5e0b0e8c3e96b66e1469ef47c1/tenor.gif?itemid=4903969" align="right" width="400px" height="auto" alt="coder"/>
-<h2>Hello 👋 , My name is Ankush <h2/>
+###  <img src="https://media1.tenor.com/images/505ddb5e0b0e8c3e96b66e1469ef47c1/tenor.gif?itemid=4903969" align="right" width="400px" height="auto" alt="coder"/>
+<h2>Hi  👋 ,<span font-family:"italic"> My name is Ankush <span/><h2/>
 <h1><em> About Me </em></h1>
 
 🤔   Exploring new technologies and developing software solutions and quick hacks.
@@ -9,9 +9,9 @@
 ✍️   Pursuing Web Development as hobbies & side hustles.
 
 <h2>🛠 Tech Stack </h3>
-💻      C++ |  MySQL | MonogoDb |
+💻      C++ |  MySQL | MonogoDb | Express | Node.JS | Python 
 
-🌐   HTML | CSS | JavaScript | Bootstrap | ReactJS
+🌐   HTML | CSS | SCCS | Bootstrap| TypeScript| JavaScript |  | React
 
 
 <h3> 🤝🏻 Connect with me </h3>
