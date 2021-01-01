@@ -1,6 +1,6 @@
 ###<h1> Hi  👋<h1/>  <img src="https://media1.tenor.com/images/505ddb5e0b0e8c3e96b66e1469ef47c1/tenor.gif?itemid=4903969" align="right" width="400px" height="auto" alt="coder"/>
-<h1<em> My name is Ankush<em/><h1/>
-<h2><em> About Me </em></h2>
+<h1><em> My name is Ankush<em/><h1/>
+<h2> About Me </h2>
 
 🤔   Exploring new technologies and developing software solutions and quick hacks.
 
