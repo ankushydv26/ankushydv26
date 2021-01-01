@@ -1,5 +1,5 @@
-###  <img src="https://media1.tenor.com/images/505ddb5e0b0e8c3e96b66e1469ef47c1/tenor.gif?itemid=4903969" align="right" width="400px" height="auto" alt="coder"/>
-<h2>Hi  👋 ,<span font-family:"italic"> My name is Ankush <span/><h2/>
+###<h1> Hi  👋<h1/>  <img src="https://media1.tenor.com/images/505ddb5e0b0e8c3e96b66e1469ef47c1/tenor.gif?itemid=4903969" align="right" width="400px" height="auto" alt="coder"/>
+<h1> ,<span style="font-family: italic;"> My name is Ankush <span/><h1/>
 <h1><em> About Me </em></h1>
 
 🤔   Exploring new technologies and developing software solutions and quick hacks.
