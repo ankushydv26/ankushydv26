@@ -2,11 +2,11 @@
 <h2><em> My name is Ankush<em/><h2/>
 <h3> About Me </h3>
 
-🤔   Exploring new technologies and developing software solutions and quick hacks.
+🤔  <p> Exploring new technologies and developing software solutions and quick hacks.<p/>
 
-🌱   Learning about Python, Systems Design and Linux.
+🌱  <p> Learning about Python, Systems Design and Linux.<p/>
 
-✍️   Pursuing Web Development as hobbies & side hustles.
+✍️  <p> Pursuing Web Development as hobbies & side hustles.p/>
 
 <h2>🛠 Tech Stack </h3>
 💻      C++ |  MySQL | MonogoDb | Express | Node.JS | Python 
