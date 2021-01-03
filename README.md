@@ -2,7 +2,7 @@
 <h2><em> My name is Ankush<em/><h2/>
 <h3> About Me </h3>
 
-<p font-size="24px">🤔   Exploring new technologies and developing software solutions and quick hacks.<p/>
+<p style="font-size:30px;">🤔   Exploring new technologies and developing software solutions and quick hacks.<p/>
 
 <p>🌱   Learning about Python, Systems Design and Linux.<p/>
 
